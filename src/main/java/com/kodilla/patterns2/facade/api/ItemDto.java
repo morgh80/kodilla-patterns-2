@@ -18,4 +18,10 @@ public class ItemDto {
         return quantity;
     }
 
+    @Override
+    public String toString() {
+        return "productId: " + productId +
+                ", quantity: " + quantity +
+                ';';
+    }
 }
