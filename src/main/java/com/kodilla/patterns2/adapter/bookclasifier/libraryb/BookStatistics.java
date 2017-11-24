@@ -1,7 +1,5 @@
 package com.kodilla.patterns2.adapter.bookclasifier.libraryb;
 
-import com.kodilla.patterns2.adapter.bookclasifier.libraryb.Book;
-
 import java.util.Map;
 
 public interface BookStatistics {
